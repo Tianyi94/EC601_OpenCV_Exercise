@@ -1,6 +1,7 @@
 # Question 1: ColorImage.cpp is a program that takes a look at colorspace conversions in OpenCV. Run the code in ColorImage.cpp and comment on the outputs. Implement the same thing in Python and save each image.
 The outputs are 10 images, including the original image, and the images of each channel in RGB, HSV, YCbCr. The python code and the pictures are in this folder.
 # Question 2: Print out the values of the pixel at (20,25) in the RGB, YCbCr and HSV versions of the image. What are the ranges of pixel values in each channel of each of the above mentioned colorspaces?
+
 The outputs for image Lenna are as follow: 
 ---
 ('RGB part', array([106, 122, 225], dtype=uint8))
